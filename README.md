@@ -4,9 +4,9 @@ Script Python
 
 ## ▶️ Como Executar
 
-- Python  instalado no sistema
-- Permissão de execução no shell
-
+- No terminal, use o comando ./nome_do_seu_script.sh para executar o script.
+-  Este script calcula as operações básicas de adição, subtração, etc., usando Python.
+-  
 ### Execução
 
 1. Dê permissão ao arquivo:
